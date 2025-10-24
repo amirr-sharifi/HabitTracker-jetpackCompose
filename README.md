@@ -2,6 +2,12 @@
 
 A modern, advanced Habit Tracker Android application built with the latest technologies and based on Clean Architecture principles.
 
+## ⬇️ Download
+
+The latest stable version of the app is available for direct download via the GitHub Releases page.
+
+[![GitHub release](https://img.shields.io/github/v/release/amirr-sharifi/HabitTracker-jetpackCompose?style=for-the-badge&logo=github&label=Latest%20Release)](https://github.com/amirr-sharifi/HabitTracker-jetpackCompose/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-20A45B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/amirr-sharifi/HabitTracker-jetpackCompose/releases/download/V1.0.0/app-release.apk)
 
 
 
